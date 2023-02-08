@@ -45,7 +45,7 @@ I'm a Python enthusiast and an aspiring machine learning engineer. I'm passionat
 </br>
 
 <div align="center">
-  <a href="https://vaaski.dev">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://github.com/lukealves/lukealves/blob/main/morpheus.gif">
   </a>
 </div>
