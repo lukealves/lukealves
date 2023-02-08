@@ -40,3 +40,9 @@ I'm a Python enthusiast and an aspiring machine learning engineer. I'm passionat
     <img  src="https://github-readme-stats.vercel.app/api?username=lukealves&&show_icons=true&theme=radical"/>
   </a>
 </br>
+
+<div align="center">
+  <a href="https://vaaski.dev">
+    <img src="https://github.com/lukealves/lukealves/blob/main/morpheus.gif">
+  </a>
+</div>
