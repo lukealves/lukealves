@@ -35,6 +35,9 @@ I'm a Python enthusiast and an aspiring machine learning engineer. I'm passionat
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br>
+</br>
+
 <p align="center" >
 <a href="https://github.com/lukealves/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=lukealves&&show_icons=true&theme=radical"/>
