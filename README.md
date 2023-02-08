@@ -27,12 +27,6 @@ I'm a Python enthusiast and an aspiring machine learning engineer. I'm passionat
 <br>
 </br>
 
-<p align="center" >
-<a href="https://github.com/lukealves/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=lukealves&&show_icons=true&theme=radical"/>
-  </a>
-</br>
-
 <div align="center">
     <img src="https://github.com/lukealves/lukealves/blob/main/morpheus.gif">
   </a>
