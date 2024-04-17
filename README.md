@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Lucas <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a Python enthusiast and an aspiring Data Scientist. I'm passionate about using technology to solve real-world problems and I believe that data has the power to change the world.
+I'm a Python enthusiast passionate about using technology to solve real-world problems.
 
 ## Skill Set ⌨️
 
