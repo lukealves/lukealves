@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Lucas <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a Python enthusiast passionate about using technology to solve real-world problems.
+I’m a Python enthusiast with a passion for creating solutions that integrate data analysis and process automation. Focusing on neural network development, machine learning, and prompt engineering.
 
 ## Skill Set ⌨️
 
