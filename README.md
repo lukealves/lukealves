@@ -1,6 +1,6 @@
 <h1>Olá! Meu nome é Lucas <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Sou programador Python e apaixonado por criar soluções que integram análise de dados e automação de processos. Atualmente venho aprimorando minhas habilidades com foco no desenvolvimento de redes neurais, aprendizado de máquina e engenharia de prompt.
+Sou programador Python e apaixonado por criar soluções que otimizam fluxos de trabalho. Com foco em backend e automação de processos, estou aprimorando minhas habilidades na criação de APIs, integração de sistemas e modelagem de dados.
 
 ## Skill Set ⌨️
 
